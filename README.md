@@ -98,3 +98,14 @@ This model can be run locally to simulate cognitive capacity and learning effici
 ### Run
 ```bash
 python cognitive_model.py
+```
+
+## Future Work
+
+Potential extensions of this framework include:
+
+- Incorporating circadian dynamics and sleep architecture (e.g., REM/NREM cycles).
+- Allowing parameter values to vary across individuals or tasks.
+- Modeling recovery as a function of active rest, task switching, or strategic breaks.
+- Introducing memory consolidation or long-term learning effects.
+- Calibrating parameters using empirical cognitive or behavioral data.
