@@ -84,5 +84,17 @@ plt.ylabel("Normalized Value")
 plt.title("Cognitive Capacity and Learning Efficiency Under Sleep Debt")
 plt.legend()
 plt.tight_layout()
-plt.show()'''
+plt.show()
+```
+## How to Run
 
+This model can be run locally to simulate cognitive capacity and learning efficiency over time.
+
+### Requirements
+- Python
+- NumPy
+- Matplotlib
+
+### Run
+```bash
+python cognitive_model.py
